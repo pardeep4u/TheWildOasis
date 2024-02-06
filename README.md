@@ -1,10 +1,6 @@
 # The Wild Oasis - Admin Hotel Management System
 
-Welcome to The Wild Oasis - Admin Hotel Management System! This project is built using ReactJS for the frontend and Supabase for the backend and database management.
-
-## Overview
-
-The Wild Oasis Admin Hotel Management System is designed to automate various administrative tasks related to managing a hotel. From managing room bookings to handling guest information. this system provides a comprehensive solution for hotel administrators.
+Welcome to The Wild Oasis - Admin Hotel Management System!. The Wild Oasis Admin Hotel Management System is designed to automate various administrative tasks related to managing a hotel. From managing room bookings to handling guest information. this system provides a comprehensive solution for hotel administrators. This project is built using ReactJS for the frontend and Supabase for the backend and database management.
 
 ## Features
 
@@ -13,17 +9,25 @@ The Wild Oasis Admin Hotel Management System is designed to automate various adm
 - **Cabin Management**: Easily add, edit, or cabins from the system, including details such as pricing, minimum guests etc.
 - **Users**: You can Easily add new users Who can use this system.
 - **Hotel Setting**: You can easily update Hotel setting like Breakfast price , maximum night bookings.
+- **Authentication**: Implemented using Supabase Auth, this feature enables users to log in and log out of the system.
 
 ## Tools & Technologies Used
 
-- **Frontend Framework**: React.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg" alt="React Logo" style="width:32px;height:32px;">
-- **State Management**: React Query <img src="https://camo.githubusercontent.com/6e2b9303d9f9cf9e4c5da9c04b85dc2ef9c93c50d8f03c1d68b1883f4b4af81e/32px-React_Query_Logo.svg" alt="React Query Logo" style="width:32px;height:32px;">
-- **Backend & Database**: Supabase <img src="https://avatars.githubusercontent.com/u/54843858?s=32&v=4" alt="Supabase Logo" style="width:32px;height:32px;">
-- **Image Handling**: Supabase (for database storage) <img src="https://avatars.githubusercontent.com/u/54843858?s=32&v=4" alt="Supabase Logo" style="width:32px;height:32px;">
-- **Type Checking**: TypeScript <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="TypeScript Logo" style="width:32px;height:32px;">
-- **Data Visualization**: Chart.js <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js Logo" style="width:32px;height:32px;">
-- **Form Handling**: Formik & Yup <img src="https://formik.org/img/favicons/favicon-32x32.png" alt="Formik Logo" style="width:32px;height:32px;">
-- **Routing**: React Router <img src="https://reactrouter.com/favicon.ico" alt="React Router Logo" style="width:32px;height:32px;">
+<div style="text-align: center;">
+
+- **Frontend Framework**: This application is developed using ReactJS <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/react-3.png?raw=true" alt="React Logo" style="width:32px;height:32px;">
+- **State Management**: State is managed using React Query <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/query.png?raw=true" alt="React Query Logo" style="width:32px;height:32px;">
+- **Styling**: Tailwind CSS for styling <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/query.png?raw=true" alt="React Query Logo" style="width:32px;height:32px;">
+- **Backend & Database**: Supabase ( SQL cloud database ) <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/supabase.png?raw=true" alt="Supabase Logo" style="width:32px;height:32px;">
+- **Image Handling**: Supabase (for database storage) <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/supabase.png?raw=true" alt="Supabase Logo" style="width:32px;height:32px;">
+- **Type Checking**: TypeScript <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/typescript.png?raw=true" alt="TypeScript Logo" style="width:32px;height:32px;">
+- **Data Visualization**: Chart.js <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/chartjs.png?raw=true" alt="Chart.js Logo" style="width:32px;height:32px;">
+- **Form Handling**: Formik & Yup <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/formik.png?raw=true" alt="Formik Logo" style="width:32px;height:32px;">
+- **Routing**: React Router ( client-side routing ) <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/react-router.png?raw=true" alt="React Router Logo" style="width:32px;height:32px;">
+
+</div>
+
+## 
 
 
 ## Installation
