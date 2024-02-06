@@ -24,7 +24,7 @@ Welcome to The Wild Oasis - Admin Hotel Management System!. The Wild Oasis Admin
 - **Data Visualization**: Chart.js <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/chartjs.png?raw=true" alt="Chart.js Logo" style="width:32px;height:32px;">
 - **Form Handling**: Formik & Yup <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/formik.png?raw=true" alt="Formik Logo" style="width:32px;height:32px;">
 - **Routing**: React Router (client-side routing) <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/react-router.png?raw=true" alt="React Router Logo" style="width:32px;height:32px;">
-- **UI Components**: Utilizes Headless UI for building UI components like modals. <img src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" alt="React Router Logo" style="width:32px;height:32px;">
+- **UI Components**: Utilizes Headless UI for building UI components like modals. <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/headless.png?raw=true" alt="React Router Logo" style="width:32px;height:32px;">
 
 
 </div>
@@ -50,7 +50,7 @@ Explore the live project [here](https://the-wild-oasis-roan-mu.vercel.app/dashbo
 ![Screenshot 4](https://github.com/pardeep4u/TheWildOasis/blob/master/assests/Screenshot%20(145).png?raw=true)
 *All Cabins*
 
-![Screenshot 5](https://github.com/pardeep4u/TheWildOasis/blob/master/assests/Screenshot%20(145).png?raw=true)
+![Screenshot 5](https://github.com/pardeep4u/TheWildOasis/blob/master/assests/Screenshot%20(150).png?raw=true)
 *Edit Cabin*
 
 ![Screenshot 6](https://github.com/pardeep4u/TheWildOasis/blob/master/assests/Screenshot%20(146).png?raw=true)
