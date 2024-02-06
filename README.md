@@ -17,22 +17,26 @@ Welcome to The Wild Oasis - Admin Hotel Management System!. The Wild Oasis Admin
 
 - **Frontend Framework**: This application is developed using ReactJS <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/react-3.png?raw=true" alt="React Logo" style="width:32px;height:32px;">
 - **State Management**: State is managed using React Query <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/query.png?raw=true" alt="React Query Logo" style="width:32px;height:32px;">
-- **Styling**: Tailwind CSS for styling <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/query.png?raw=true" alt="React Query Logo" style="width:32px;height:32px;">
+- **Styling**: Tailwind CSS for styling <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/tailwind.png?raw=true" alt="React Query Logo" style="width:32px;height:32px;">
 - **Backend & Database**: Supabase ( SQL cloud database ) <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/supabase.png?raw=true" alt="Supabase Logo" style="width:32px;height:32px;">
 - **Image Handling**: Supabase (for database storage) <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/supabase.png?raw=true" alt="Supabase Logo" style="width:32px;height:32px;">
 - **Type Checking**: TypeScript <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/typescript.png?raw=true" alt="TypeScript Logo" style="width:32px;height:32px;">
 - **Data Visualization**: Chart.js <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/chartjs.png?raw=true" alt="Chart.js Logo" style="width:32px;height:32px;">
 - **Form Handling**: Formik & Yup <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/formik.png?raw=true" alt="Formik Logo" style="width:32px;height:32px;">
 - **Routing**: React Router ( client-side routing ) <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/react-router.png?raw=true" alt="React Router Logo" style="width:32px;height:32px;">
+- **Headless UI**: React Router ( client-side routing ) <img src="https://github.com/pardeep4u/TheWildOasis/blob/master/assests/react-router.png?raw=true" alt="React Router Logo" style="width:32px;height:32px;">
+
 
 </div>
 
-## 
+## Live Project
 
+Explore the live project [here](https://the-wild-oasis-roan-mu.vercel.app/dashboard).
 
-## Installation
+## Screenshots
 
-1. Clone the repository:
+![Screenshot 1](https://example.com/screenshot1.png)
+*Dashboard view*
 
-   ```bash
-   git clone https://github.com/your-username/the-wild-oasis.git
+![Screenshot 2](https://example.com/screenshot2.png)
+*Bookings management*
