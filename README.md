@@ -1,3 +1,4 @@
+## Before creating a new repo create a how to use it section
 # The Wild Oasis - Admin Hotel Management System
 
 Welcome to The Wild Oasis - Admin Hotel Management System. The Wild Oasis Admin Hotel Management System is designed to automate various administrative tasks related to managing a hotel. From managing room bookings to handling guest information. this system provides a comprehensive solution for hotel administrators. This project is built using ReactJS for the frontend and Supabase for the backend and database management.
